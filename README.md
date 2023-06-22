@@ -7,6 +7,7 @@
 
 网页版地址：https://chat.loncons.com/
 
+客户端下载：https://github.com/longkun0203/ChatGPT-Client/releases
 
 
 
